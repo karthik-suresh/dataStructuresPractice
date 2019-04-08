@@ -1,0 +1,5 @@
+Height start from leaf deph start from root 0,1,2
+Level start from root from 1
+
+BFS start at every level search from root
+DFS is of 3 types pre,post and inorder

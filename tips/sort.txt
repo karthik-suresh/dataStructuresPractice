@@ -1,0 +1,18 @@
+Do not fail to mention space time tradeoff.
+eg: new data struct to store elements which is ok for 10s of elements but not millions of elements
+
+bubble sort space complexity = o(1)
+
+merge sort time is better o(n log n)
+
+merge sort space complexity o(n) as data struct is introduced in every divide and conquer
+
+quick sort
+worst case o(n square)
+avg case o(n log n)
+space complexity o(1)
+preferred if we know the elements are not almost sorted
+can increase efficiency by
+1) picking median of pivot of last 3 to 5 elements instead of lastelement as swaps are less likely
+2) since array can be split we can run prg in two seperate threads so same time but power consuming
+
