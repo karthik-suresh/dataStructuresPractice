@@ -1,0 +1,14 @@
+Max heap parent greater than child
+Min heap parent less than child root is minimum
+
+Heap is always a complete tree
+
+Focus on max binary heap 
+
+Search worst case O(n) avg case O(n/2) still is linear
+
+heapify - Put element to leaf insert and swap upwards
+Insert and delete O(log n) equivalent to height of tree
+Advantage of storing in array is space efficiency
+Trees uses vals and link data struct 
+array uses indexes so its easy but array must be ordered calculate to 2 powers

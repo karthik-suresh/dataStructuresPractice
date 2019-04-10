@@ -1,0 +1,16 @@
+DFS
+Efficiency O(E+V)
+Implemented as a stack push visited pop revisit
+
+BFS
+Efficiency O(E+V)
+Implemented as tree
+
+Dijkstras shortestpath greeedy
+Priority queue is implemented
+add sum weights everytime and compare
+efficiency O(V square) can be made to O(E + E log V)
+
+Knapsack weight value combination O(nW)
+Dynamic programming very important try if we can break every problem into sub problems and store it into memoisation 
+so it is not needed to be computed again
